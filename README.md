@@ -1,1 +1,3 @@
 # Gower
+
+Discontinued, we found out that a big part of what we wanted to do is already done...
